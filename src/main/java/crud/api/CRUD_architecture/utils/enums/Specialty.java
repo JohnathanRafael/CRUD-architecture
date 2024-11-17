@@ -1,4 +1,4 @@
-package crud.api.CRUD_architecture.dto.enums;
+package crud.api.CRUD_architecture.utils.enums;
 
 public enum Specialty {
     ORTOPEDIA,
